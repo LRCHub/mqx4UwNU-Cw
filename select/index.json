@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Rewrite",
+  "base_artist": "Hakubi",
+  "createdAt": "2026-03-15T15:13:34.615145Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rewrite",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/01_Rewrite_Sia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rewrite",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/02_Rewrite_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rewrite",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Rewrite_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rewrite the Saga",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/04_Rewrite_the_Saga_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rewrite",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_Rewrite_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rewrite The Stars",
+      "artist": "Zac Efron feat. Zendaya",
+      "has_synced": true,
+      "path": "select/06_Rewrite_The_Stars_Zac_Efron_feat._Zendaya.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rewrite The Stars",
+      "artist": "Zac Efron",
+      "has_synced": true,
+      "path": "select/07_Rewrite_The_Stars_Zac_Efron.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rewrite",
+      "artist": "サイキックラバー",
+      "has_synced": true,
+      "path": "select/08_Rewrite_サイキックラバー.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rewrite",
+      "artist": "PSYCHIC LOVER",
+      "has_synced": true,
+      "path": "select/09_Rewrite_PSYCHIC_LOVER.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rewrite",
+      "artist": "Paul Simon",
+      "has_synced": false,
+      "path": "select/10_Rewrite_Paul_Simon.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rewrite the Stars",
+      "artist": "James Arthur feat. Anne-Marie",
+      "has_synced": true,
+      "path": "select/11_Rewrite_the_Stars_James_Arthur_feat._Anne-Marie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rewrite The Stars",
+      "artist": "James Arthur, Anne-Marie",
+      "has_synced": true,
+      "path": "select/12_Rewrite_The_Stars_James_Arthur,_Anne-Marie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rewrite The Stars",
+      "artist": "James Arthur & Anne-Marie",
+      "has_synced": true,
+      "path": "select/13_Rewrite_The_Stars_James_Arthur_&_Anne-Marie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rewrite",
+      "artist": "Hakubi",
+      "has_synced": false,
+      "path": "select/pl_01_Rewrite_Hakubi.txt"
+    }
+  ]
+}
